@@ -5,9 +5,11 @@ git clone
 git pull origin master o git pull origin
 sit status
 git add
-
+git push (subir a la pagina)
+git commit -m
 
 
 ls
 cd .. (es para volver atras)
 cd (agregar carpeta) 
+
