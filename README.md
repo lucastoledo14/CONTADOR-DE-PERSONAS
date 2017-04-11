@@ -12,4 +12,4 @@ git commit -m
 ls
 cd .. (es para volver atras)
 cd (agregar carpeta) 
-
+Termina el curso
